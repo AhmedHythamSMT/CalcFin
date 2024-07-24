@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">calcfinal</string>
+    <string name="name">Ahmed Hytham , ID: 43106</string>
+    <string name="formula">0.0</string>
+    <string name="memory">M: 0.0</string>
+    <string name="mPlus">M+</string>
+    <string name="mMines">M-</string>
+    <string name="mr">MR</string>
+    <string name="mc">MC</string>
+    <string name="c">C</string>
+    <string name="db_0">00</string>
+    <string name="_0">0</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="dot">.</string>
+    <string name="equal">=</string>
+    <string name="plus">+</string>
+    <string name="mines">-</string>
+    <string name="divide">÷</string>
+    <string name="multiply">x</string>
+    <string name="clear">⌫</string>
+    <string name="modulus">%</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="rBracket">)</string>
+    <string name="lBracket">(</string>
+    <string name="pow">x²</string>
+</resources>
